@@ -18,6 +18,7 @@ module.exports = {
 
   plugins: [
     'vue',
+    'gridsome'
   ],
 
   rules: {
@@ -31,5 +32,6 @@ module.exports = {
     'airbnb-base',
     'prettier',
     'plugin:vue/recommended',
+    'plugin:gridsome/recommended'
   ]
 };
