@@ -27,14 +27,5 @@
     "node-sass": "^4.11.0",
     "prettier": "1.18.2",
     "sass-loader": "^7.1.0"
-  },
-  "gitHooks": {
-    "pre-commit": "lint-staged"
-  },
-  "lint-staged": {
-    "*.{js,ts,vue}": [
-      "eslint --ext .js,.ts,.vue src",
-      "git add"
-    ]
   }
 }
