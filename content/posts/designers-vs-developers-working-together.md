@@ -16,6 +16,10 @@ Tools can help with this!
 
 But it is about much more than this. It is all about communication. Some of these tools enable and improve the communication and help us track intent and purpose more clearly, but we still need those face-to-face conversations.
 
+## Are we really agile?
+
+Development can work in small chunks, but design is still quite waterfall. There are large projects and sets of pages that are completed and then handed off to the development team. And the development team is treated as code monkeys who just implement and don't ask questions. On one of my current projects I don't even know the designer's name!
+
 ## Tools
 
 * InVision
@@ -31,3 +35,4 @@ Could a Design System help with this?
 
 ![Screen with Design System displayed](./images/balazs-ketyi-_x335IZXxfc-unsplash.jpg "Design System example")
 
+## Can't we all just get along?
